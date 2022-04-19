@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617220473468",
+    "project_id": "restaurantprojectsogong",
+    "storage_bucket": "restaurantprojectsogong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617220473468:android:dad181fd02b54ba1697ff9",
+        "android_client_info": {
+          "package_name": "com.example.restaurantprojectsogong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617220473468-i8e0h0ht8qkih1bevrttqbhicr9ngnnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restaurantprojectsogong",
+            "certificate_hash": "49644e399f63982027c48a2aad8423826e92dba2"
+          }
+        },
+        {
+          "client_id": "617220473468-og2fu7lfbqd11g1debbjm5am1rb01s3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz4reyPI8jLoEyeCum4lPv6QDefVEL9cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617220473468-og2fu7lfbqd11g1debbjm5am1rb01s3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
