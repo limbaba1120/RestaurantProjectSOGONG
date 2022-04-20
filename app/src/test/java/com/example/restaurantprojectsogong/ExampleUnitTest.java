@@ -2,6 +2,7 @@ package com.example.restaurantprojectsogong;
 
 import org.junit.Test;
 //아아
+//아아 테스트2
 /**
  * Example local unit test, which will execute on the development machine (host).
  *
